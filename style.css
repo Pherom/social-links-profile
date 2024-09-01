@@ -175,7 +175,7 @@ body {
 
 #avatar {
     border-radius: 50%;
-    max-width: 90px;
+    max-width: 80px;
     margin-bottom: 30px;
 }
 
@@ -224,7 +224,7 @@ body {
 
 #description {
     margin-top: 30px;
-    font-weight: 200;
+    font-weight: 300;
 }
 
 #name {
